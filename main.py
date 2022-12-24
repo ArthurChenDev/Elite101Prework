@@ -1,6 +1,6 @@
-# where I learned about how to find if the string contains array elements: https://realpython.com/python-string-contains-substring/
+# Where I learned about how to find if the string contains array elements: https://realpython.com/python-string-contains-substring/
 
-#This is a store chat bot that helps users find when the store is open, what locations they have, what they have in stock, and how much items cost. 
+
 hoursList=["hours", "open", "days", "when", "time", "closed"]
 locationList=["store", "location", "place", "map", "where", "address","closest"]
 productsList=["inventory", "products", "stock", "item", "available", "have"]
