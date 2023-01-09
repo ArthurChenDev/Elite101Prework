@@ -1,4 +1,5 @@
-# where I learned about how to find if the string contains array elements: https://realpython.com/python-string-contains-substring/
+# Where I learned about how to find if the string contains array elements: https://realpython.com/python-string-contains-substring/ 
+
 
 hoursList=["hours", "open", "days", "when", "time", "closed"]
 locationList=["store", "location", "place", "map", "where", "address","closest"]
@@ -14,7 +15,7 @@ def mainInteraction():
   response=""
   while True:
     count=0;
-    response= input("\nWhat can I help you with today?\n")
+    response= input("\nWhat can I help you with today?\n").lower()
     if response=="q":
       print("Thank you for using Shop Bot! Bye!")
       break
