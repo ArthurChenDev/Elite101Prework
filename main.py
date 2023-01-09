@@ -1,4 +1,4 @@
-# Where I learned about how to find if the string contains array elements: https://realpython.com/python-string-contains-substring/
+# Where I learned about how to find if the string contains array elements: https://realpython.com/python-string-contains-substring/ 
 
 
 hoursList=["hours", "open", "days", "when", "time", "closed"]
