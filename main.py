@@ -15,7 +15,7 @@ def mainInteraction():
   response=""
   while True:
     count=0;
-    response= input("\nWhat can I help you with today?\n")
+    response= input("\nWhat can I help you with today?\n").lower()
     if response=="q":
       print("Thank you for using Shop Bot! Bye!")
       break
